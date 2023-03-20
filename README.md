@@ -1,8 +1,6 @@
-<p align="center">
-  <strong>👋 Welcome to my GitHub! 👋</strong>
-</p>
-<br />
-<br />
+<div align="center">
+
+## <span style="font-weight:bold">👋 Welcome to my GitHub! 👋</span>
 
 <p align="center">
   Hi there! I'm a Data Scientist with a passion for crafting end-to-end machine learning solutions that solve complex business problems across different industries. I'm skilled in data analysis, forecasting, and creating powerful visualizations using Python, Advanced Excel, and SQL.
