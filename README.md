@@ -76,10 +76,10 @@
 
 <p align="center">
   <a href="https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=synthwave">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=highcontrast">
   </a>
   <br>
   <a href="https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati">
