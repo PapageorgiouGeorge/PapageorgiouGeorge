@@ -97,7 +97,34 @@
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks&theme=vue">
   </a>
   <br>
+  <a href="https://github.com/PapageorgiouGeorge/Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=vue">
+  </a>
+  <a href="https://github.com/PapageorgiouGeorge/Exploratory-Data-Analysis-and-Visualization-Using-Python-and-Tableau">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Exploratory-Data-Analysis-and-Visualization-Using-Python-and-Tableau&theme=vue">
+  </a>
+</p>
 
+<p align="center">
+  <h2>GitHub Stats:</h2>
+</p>
+
+<p align="center">
+  <img alt="PapageorgiouGeorge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PapageorgiouGeorge&show_icons=true&theme=vue">
+</p>
+
+<p align="center">
+  <h2>Contact me:</h2>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/george-papageorgiou-323534189/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:george.papageorgiou@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 
 
