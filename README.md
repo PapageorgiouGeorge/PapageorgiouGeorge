@@ -32,8 +32,8 @@ Feel free to explore my repositories and let's connect! 😄
 
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge&label=ETL&labelColor=2E8B57&color=90EE90)
-![](https://img.shields.io/badge/OLAP-4682B4?style=for-the-badge&label=OLAP&labelColor=4682B4&color=87CEFA)
+![](https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge&labelColor=2E8B57&color=2E8B57)
+![](https://img.shields.io/badge/OLAP-4682B4?style=for-the-badge&labelColor=4682B4&color=4682B4)
 
 
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
