@@ -67,7 +67,8 @@ Accomplished Data Scientist experienced in data engineering and machine learning
 ### Thank you for visiting, you can also find me on [![LinkedIn][2.2]][2].
 ## Some of my work on Github:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=/PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=/PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv &theme=dracula)](https://github.com//PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv )
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=/PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati &theme=dracula)](https://github.com//PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati )
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=/PapageorgiouGeorge&repo=Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models&theme=dracula)](https://github.com//PapageorgiouGeorge/Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models)
