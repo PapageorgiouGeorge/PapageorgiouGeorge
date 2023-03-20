@@ -81,10 +81,6 @@
   <a href="https://github.com/PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=nord">
   </a>
-  <br>
-  <a href="https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=nord">
-  </a>
   <a href="https://github.com/PapageorgiouGeorge/Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models&theme=nord">
   </a>
@@ -100,9 +96,6 @@
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=nord">
-  </a>
-  <a href="https://github.com/PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=nord">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=nord">
