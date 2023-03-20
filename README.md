@@ -1,12 +1,6 @@
 # 👋 Welcome to my GitHub! 👋
-
 <br />
 <br />
-
-### Data Scientist| PhD Student, MSc in Data Science, BSc | Data Engineering, Machine Learning, Data Analysis, Automations
-
-<br />
-
 
 Hi there!I'm a Data Scientist with a passion for crafting end-to-end machine learning solutions that solve complex business problems across different industries. I'm skilled in data analysis, forecasting, and creating powerful visualizations using Python, Advanced Excel, and SQL.
 
@@ -20,11 +14,16 @@ Hi there!I'm a Data Scientist with a passion for crafting end-to-end machine lea
 
 Feel free to explore my repositories and let's connect! 😄
 
-
 <br />
 <br />
 
 ## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sql&logoColor=white)
@@ -43,6 +42,8 @@ Feel free to explore my repositories and let's connect! 😄
 
 ![](https://img.shields.io/badge/Matplotlib-1965B0?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+
 
 
 
