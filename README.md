@@ -84,7 +84,6 @@
   <a href="https://github.com/PapageorgiouGeorge/Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models&theme=nord">
   </a>
-  <br>
   <a href="https://github.com/PapageorgiouGeorge/Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis&theme=nord">
   </a>
