@@ -8,10 +8,12 @@ Hi there!I'm a Data Scientist with a passion for crafting end-to-end machine lea
 
     Data engineering using ETL, OLAP, data modeling, and data integration.
     Python libraries like Pandas and NumPy for efficient data manipulation and analysis.
-    ML frameworks such as TensorFlow, PyTorch, and scikit-learn.
+    ML frameworks such as scikit-learn, TensorFlow, and PyTorch.
 
 🎓 Currently, I'm working towards my PhD in Data Science with the DaMa research group, focusing on ETL and OLAP processes as well as the design and development of machine learning applications. I'm a dedicated researcher, always eager to collaborate and contribute to cutting-edge data-driven solutions across various sectors.
 
+
+If you require access to the code in this repository, please reach out to me at [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.papageorgiou.contact@gmail.com) or on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221/), and I will be happy to assist you.
 Feel free to explore my repositories and let's connect! 😄
 
 <br />
@@ -44,17 +46,6 @@ Feel free to explore my repositories and let's connect! 😄
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-<!-- Actual text -->
-### Thank you for visiting, you can also find me on [![LinkedIn][2.2]][2].
 ## Some of my work on Github:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati)
@@ -69,17 +60,3 @@ Feel free to explore my repositories and let's connect! 😄
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula)](https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula)](https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package)
-
-
-<!-- Icons -->
- 
- [2.2]: https://img.shields.io/badge/Linkedin-informational?style=flat&logo=LinkedIn&logoColor=ff6e96&color=6272a4&labelColor=282a36 (LinkedIn icon)
-
-<!-- Links to your social media accounts -->
-
-
-[2]: https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221
-
-
-## <em>Stay Curious!</em>
-
