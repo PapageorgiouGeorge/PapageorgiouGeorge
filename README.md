@@ -27,6 +27,29 @@ Feel free to explore my repositories and let's connect! 😄
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/ETL-33D69F?style=for-the-badge&label=ETL)
+![](https://img.shields.io/badge/OLAP-1DA1F2?style=for-the-badge&label=OLAP)
+
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+![](https://img.shields.io/badge/Matplotlib-1965B0?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+
+
+
+
+
+
+
 
 <!-- Actual text -->
 ### Thank you for visiting, you can also find me on [![LinkedIn][2.2]][2].
@@ -40,7 +63,7 @@ Feel free to explore my repositories and let's connect! 😄
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks&theme=dracula)](https://github.com/PapageorgiouGeorge/Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=dracula)](https://github.com/PapageorgiouGeorge/Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula)](https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula)](https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package)
