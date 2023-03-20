@@ -32,8 +32,9 @@ Feel free to explore my repositories and let's connect! 😄
 
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/ETL-33D69F?style=for-the-badge&label=ETL)
-![](https://img.shields.io/badge/OLAP-1DA1F2?style=for-the-badge&label=OLAP)
+![](https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge&label=ETL&labelColor=2E8B57&color=90EE90)
+![](https://img.shields.io/badge/OLAP-4682B4?style=for-the-badge&label=OLAP&labelColor=4682B4&color=87CEFA)
+
 
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -64,7 +65,8 @@ Feel free to explore my repositories and let's connect! 😄
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=dracula)](https://github.com/PapageorgiouGeorge/Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula)](https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula)](https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package)
 
