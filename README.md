@@ -12,8 +12,22 @@ Hi there!I'm a Data Scientist with a passion for crafting end-to-end machine lea
 
 🎓 Currently, I'm working towards my PhD in Data Science with the DaMa research group, focusing on ETL and OLAP processes as well as the design and development of machine learning applications. I'm a dedicated researcher, always eager to collaborate and contribute to cutting-edge data-driven solutions across various sectors.
 
+<p align="center">
+  If you require access to the code in this repository, please reach out to me, and I will be happy to assist you.
+</p>
+
+<p align="center">
+  <a href="mailto:g.papageorgiou.contact@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 
 If you require access to the code in this repository, please reach out to me at [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.papageorgiou.contact@gmail.com) or on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221/), and I will be happy to assist you.
+
 Feel free to explore my repositories and let's connect! 😄
 
 <br />
