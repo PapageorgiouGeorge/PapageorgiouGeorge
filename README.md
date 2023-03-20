@@ -83,23 +83,23 @@
   </a>
   <br>
   <a href="https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=cobalt">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models&theme=onedark">
   </a>
   <br>
   <a href="https://github.com/PapageorgiouGeorge/Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis&theme=solarized-dark">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks&theme=gruvbox">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=merko">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=vue">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=radical">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv">
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=vue">
