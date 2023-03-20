@@ -7,12 +7,19 @@
 
 <br />
 
-## Some words about me:
+👋 Welcome to my GitHub! 👋
 
-Accomplished Data Scientist experienced in data engineering and machine learning end-to-end solutions for complex business problems across various industries. Skilled in providing end-to-end data-driven solutions using a wide range of tools, libraries, and techniques.
-• Proficient in data analysis, forecasting, and digital performance analysis using Python, Advanced Excel, and SQL. Expert in building advanced dashboards with Advanced Excel, Python, and Power BI. Applied diverse data engineering processes, such as ETL, OLAP, data modeling, and data integration, to enhance data quality, performance, and security.
-• Adept with data engineering libraries in Python, including Pandas and NumPy, for efficient data manipulation, processing, and analysis. Experienced with ML libraries and frameworks, such as TensorFlow, PyTorch, and scikit-learn.
-• Pursuing a PhD in Data Science as a proud member of the DaMa research group, focusing on end-to-end ETL and OLAP processes and the design and development of end-to-end machine learning applications and products. Dedicated researcher with exceptional communication and team collaboration skills, contributing to scientific research and providing data-driven solutions to drive transformative change in various sectors.
+Hi there! I'm a Data Scientist with a passion for crafting end-to-end machine learning solutions that solve complex business problems across different industries. I'm skilled in data analysis, forecasting, and creating powerful visualizations using Python, Advanced Excel, and SQL.
+
+📚 Here's what I'm great at:
+
+    Data engineering using ETL, OLAP, data modeling, and data integration.
+    Python libraries like Pandas and NumPy for efficient data manipulation and analysis.
+    ML frameworks such as TensorFlow, PyTorch, and scikit-learn.
+
+🎓 Currently, I'm working towards my PhD in Data Science with the DaMa research group, focusing on ETL and OLAP processes as well as the design and development of machine learning applications. I'm a dedicated researcher, always eager to collaborate and contribute to cutting-edge data-driven solutions across various sectors.
+
+Feel free to explore my repositories and let's connect! 😄
 
 
 
@@ -75,7 +82,7 @@ Accomplished Data Scientist experienced in data engineering and machine learning
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks&theme=dracula)](https://github.com/PapageorgiouGeorge/Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=dracula)](https://github.com/PapageorgiouGeorge/Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)](https://
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula)](https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula)](https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package)
