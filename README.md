@@ -100,45 +100,17 @@
     <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=vue">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=dracula">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=vue">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=vue">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=dracula">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=vue">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=vue">
   </a>
   <a href="https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package">
-    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula">
+    <img alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=vue">
   </a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula)](https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula)](https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package)
-
-
-
-
-
-
-
-
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)](https://github.com/PapageorgiouGeorge/Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Query-Result-Relevance-Comparing-Regression-Models-for-Accurate-Relevance-Score-Estimati)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models&theme=dracula)](https://github.com/PapageorgiouGeorge/Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis&theme=dracula)](https://github.com/PapageorgiouGeorge/Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks&theme=dracula)](https://github.com/PapageorgiouGeorge/Distributed-Data-Processing-Analyzing-Datasets-with-MapReduce-and-Apache-Spark-Frameworks)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle&theme=dracula)](https://github.com/PapageorgiouGeorge/Database-Development-Design-and-Implementation-of-a-Music-Album-Database-using-SQL-and-Oracle)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches&theme=dracula)](https://github.com/PapageorgiouGeorge/Predicting-Google-Stock-Price-Movements-Comparing-Raw-Data-and-Feature-Extraction-Approaches)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv&theme=dracula)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-&theme=dracula)](https://github.com/PapageorgiouGeorge/Gaming-Console-Sentiment-Analysis-Evaluating-Twitter-Opinions-on-PS5-XBX-and-NS-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Timeseries-Analysis-of-Power-Price-Data&theme=dracula)](https://github.com/PapageorgiouGeorge/Timeseries-Analysis-of-Power-Price-Data)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PapageorgiouGeorge&repo=Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package&theme=dracula)](https://github.com/PapageorgiouGeorge/Lake-Huron-Water-Level-Analysis-ARMA-Methods-and-itsmr-Package)
