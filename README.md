@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋 Welcome to my GitHub! 👋</h1>
+  <h1 style="text-align: center">👋 Welcome to my GitHub! 👋</h1>
 </p>
 
 <p align="center">
